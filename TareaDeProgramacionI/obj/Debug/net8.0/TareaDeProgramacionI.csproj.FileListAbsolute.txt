@@ -1,0 +1,14 @@
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\bin\Debug\net8.0\TareaDeProgramacionI.exe
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\bin\Debug\net8.0\TareaDeProgramacionI.deps.json
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\bin\Debug\net8.0\TareaDeProgramacionI.runtimeconfig.json
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\bin\Debug\net8.0\TareaDeProgramacionI.dll
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\bin\Debug\net8.0\TareaDeProgramacionI.pdb
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.AssemblyInfoInputs.cache
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.AssemblyInfo.cs
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.dll
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\refint\TareaDeProgramacionI.dll
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.pdb
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\TareaDeProgramacionI.genruntimeconfig.cache
+C:\Users\ludwi\source\repos\TareaDeProgramacionI\TareaDeProgramacionI\obj\Debug\net8.0\ref\TareaDeProgramacionI.dll
