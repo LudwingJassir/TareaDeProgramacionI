@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Trabajo de Programacion I, es un sistema basico con el Framework .NET con el objetivo de hacer uso de las expresiones Lambda y LINQ</h4>
+<h4 align="left">Trabajo de Programacion I, es un sistema basico creado con el lenguaje de programacion C# y con el Framework .NET con el objetivo de hacer uso de las expresiones Lambda y LINQ</h4>
 
 ###
 
