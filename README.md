@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/a9/16/9f/a9169f99711ef93bfc326ceefb130b5f.gif"  />
+<h4 align="left">Trabajo de Programacion I, es un sistema basico con el Framework .NET con el objetivo de hacer uso de las expreciones Lambda y LINQ</h4>
 
 ###
 
@@ -18,7 +18,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/a9/16/9f/a9169f99711ef93bfc326ceefb130b5f.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/ludwingjassir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -30,6 +36,14 @@
   </a>
   <a href="ludwingutierrez8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/LudwingJassir">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317u7i7v5g7lswnooz23ukk7m4zu"  />
   </a>
 </div>
 
