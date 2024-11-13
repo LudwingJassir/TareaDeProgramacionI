@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/a9/16/9f/a9169f99711ef93bfc326ceefb130b5f.gif"  />
+  <img height="270" src="https://steamuserimages-a.akamaihd.net/ugc/867367817421925707/EB9E2328B2EB82D2089086213044142E35279535/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
