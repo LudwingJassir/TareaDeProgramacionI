@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/LudwingJassir">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317u7i7v5g7lswnooz23ukk7m4zu"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317u7i7v5g7lswnooz23ukk7m4zu&unique={true|1|on|yes}"  />
   </a>
 </div>
 
